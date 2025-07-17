@@ -45,13 +45,12 @@ Current cgpa - 8.94
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
 </p>
 
 ### 📚 Programming & DSA
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-coding-interview-platform-for-technical-interview-preparation-logo-filled-tal-revivo.png" width="40" />
+  <img src="https://user-images.githubusercontent.com/104568275/186131673-9ffff84c-21b4-421b-b956-643aa0fa7dbd.png" width="40" />
 </p>
 
 ### 🎨 Design & Creativity
@@ -94,14 +93,14 @@ Current cgpa - 8.94
     <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" />
   </a>
   <a href="https://github.com/nancy0801" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/github--v1.png" alt="GitHub" width="30" style="background-color:white; border-radius:6px; padding:2px;" />
   </a>
 </p>
 
 ---
 
 ## 🤔 Fun Fact
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
+<img src="[https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="300" />
 
 I find joy in blending logic with creativity—be it through elegant code, aesthetic designs, or late-night debugging with lo-fi music.
 
