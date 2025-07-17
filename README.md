@@ -50,7 +50,7 @@
 ### 📚 Programming & DSA
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://user-images.githubusercontent.com/104568275/186131673-9ffff84c-21b4-421b-b956-643aa0fa7dbd.png" width="40" />
+  <img src="https://avatars.githubusercontent.com/u/10178994?s=200&v=4" width="40" />
 </p>
 
 ### 🎨 Design & Creativity
@@ -93,7 +93,7 @@
     <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" />
   </a>
   <a href="https://github.com/nancy0801" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github--v1.png" alt="GitHub" width="30" style="background-color:white; border-radius:6px; padding:2px;" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjw80ex6cLaqhDlwJV7OrkstccLoUNHrUA_qUoxhtq5EvkApHsj3C4SMyKfa8wdN1jGCs&usqp=CAU" alt="GitHub" width="30" style="background-color:white; border-radius:6px; padding:2px;" />
   </a>
 </p>
 
