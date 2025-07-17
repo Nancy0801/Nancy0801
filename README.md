@@ -24,7 +24,7 @@
 
 **University Institute of Engineering and Technology, Chandigarh, Panjab University**  
 *B.E. - Computer Science Engineering (2022 - 2026)*
-Current cgpa - 8.94
+- Current cgpa - 8.94
 
 ---
 
