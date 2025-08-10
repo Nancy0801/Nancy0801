@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nancy Gupta! 👋</h1>
-<h3 align="center">Full Stack Developer | Aspiring Data Analyst | DSA Problem Solver | Continuous Explorer</h3>
+<h3 align="center">Full Stack Developer | DSA Problem Solver | Continuous Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nancy0801&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
